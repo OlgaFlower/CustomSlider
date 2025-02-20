@@ -10,7 +10,7 @@ import SwiftUI
 struct Slider: View {
     
     var activeTint: Color = .orange
-    var inactiveTint: Color = .gray.opacity(0.25)
+    var inactiveTint: Color = .black.opacity(0.25)
     var opacityEffect: Bool = false
     var clipEdges: Bool = false
     
